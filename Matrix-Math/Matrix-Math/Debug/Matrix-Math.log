@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\nickt\source\repos\Matrix-Math\Matrix-Math\Matrix-Math\Matrix.h(324,13): warning C4244: 'initializing': conversion from '_T' to 'int', possible loss of data
+          with
+          [
+              _T=double
+          ]
+C:\Users\nickt\source\repos\Matrix-Math\Matrix-Math\Matrix-Math\Matrix.h(260): message : while compiling class template member function 'Matrix<double> Matrix<double>::RREF(void)'
+C:\Users\nickt\source\repos\Matrix-Math\Matrix-Math\Matrix-Math\main.cpp(47): message : see reference to function template instantiation 'Matrix<double> Matrix<double>::RREF(void)' being compiled
+C:\Users\nickt\source\repos\Matrix-Math\Matrix-Math\Matrix-Math\Matrix.h(130): message : see reference to class template instantiation 'Matrix<double>' being compiled
+C:\Users\nickt\source\repos\Matrix-Math\Matrix-Math\Matrix-Math\Matrix.h(469): message : see reference to class template instantiation 'Matrix<_T>' being compiled
+  Matrix-Math.vcxproj -> C:\Users\nickt\source\repos\Matrix-Math\Matrix-Math\Debug\Matrix-Math.exe
